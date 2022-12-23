@@ -1,0 +1,6 @@
+/.ipynb_checkpoints/
+*.parquet
+*.csv
+*.zip
+*checkpoint.ipynb
+checkpoint*/
