@@ -1,4 +1,4 @@
-# competitions
+# Competitions
 
 # List
 
