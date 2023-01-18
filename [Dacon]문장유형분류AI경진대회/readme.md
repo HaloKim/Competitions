@@ -1,5 +1,8 @@
 # [문장 유형 분류 AI 경진대회](https://dacon.io/competitions/official/236037/overview/description)
 
+![image](https://user-images.githubusercontent.com/44603549/213177200-5193d1d7-3801-41ac-9255-4e4280836b6c.png)
+
+
 # 대회정보 
 
 ## 주제
@@ -38,6 +41,15 @@
 # Text Augmentation
 
 ![image](https://user-images.githubusercontent.com/44603549/213166443-d839aa67-898f-46e4-8711-f9e82f030317.png)
+
+# Loss
+
+![image](https://user-images.githubusercontent.com/44603549/213177405-d56843ae-1757-405a-a8e7-9ef1c71ba027.png)
+
+![image](https://user-images.githubusercontent.com/44603549/213177415-4f90c74e-47e0-48fc-a31f-592c7e0994f9.png)
+
+![image](https://user-images.githubusercontent.com/44603549/213177425-1a574a65-c567-4732-aa05-7f12ef9cc3bb.png)
+
 
 # Custom Model
 
