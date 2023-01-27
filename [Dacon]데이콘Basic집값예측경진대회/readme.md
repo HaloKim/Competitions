@@ -1,5 +1,9 @@
 # [데이콘 Basic 집값 예측 경진대회](https://dacon.io/competitions/official/235869/overview/description)
 
+# 순위
+
+* 개인 	4/671
+
 # 대회정보 
 
 ## 목적
