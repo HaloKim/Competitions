@@ -1,5 +1,9 @@
 # [월간 데이콘 기계 고장 진단 AI 경진대회](https://dacon.io/competitions/official/236036/overview/description)
 
+# 순위
+
+* 개인 19/582
+
 # 대회정보 
 
 ## 주제
