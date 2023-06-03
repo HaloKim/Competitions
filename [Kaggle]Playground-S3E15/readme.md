@@ -1,5 +1,7 @@
 # [Kaggle Playground-S3E15](https://www.kaggle.com/competitions/playground-series-s3e15/overview)
 
+![image](https://github.com/HaloKim/Competitions/assets/44603549/e069ddcd-1f6c-4bcc-8a19-f6d9ecaff082)
+
 # 순위
 
 * 개인 11/693
