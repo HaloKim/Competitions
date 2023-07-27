@@ -10,3 +10,4 @@
 ||[제주도 도로 교통량 예측 AI 경진대회](https://github.com/HaloKim/Competitions/tree/main/%5BDacon%5D%EC%A0%9C%EC%A3%BC%EB%8F%84%EB%8F%84%EB%A1%9C%EA%B5%90%ED%86%B5%EB%9F%89%EC%98%88%EC%B8%A1AI%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C)|27/1559|
 |Kaggle|[Feature Imputation with a Heat Flux Dataset](https://github.com/HaloKim/Competitions/tree/main/%5BKaggle%5DPlayground-S3E15)|11/693|
 |AIFactory|[제4회 2023 연구개발특구 AI SPARK 챌린지 - 공기압축기 이상 판단](https://github.com/HaloKim/Competitions/tree/main/%5BAIFactory%5D%EA%B3%B5%EA%B8%B0%EC%95%95%EC%B6%95%EA%B8%B0%EC%9D%B4%EC%83%81%ED%8C%90%EB%8B%A8)|125/803|
+|AIConnect|[Fake or Real: AI 생성 이미지 판별 경진대회 ](https://github.com/HaloKim/Competitions/tree/main/%5BAIFactory%5D%EA%B3%B5%EA%B8%B0%EC%95%95%EC%B6%95%EA%B8%B0%EC%9D%B4%EC%83%81%ED%8C%90%EB%8B%A8)|19/707|
