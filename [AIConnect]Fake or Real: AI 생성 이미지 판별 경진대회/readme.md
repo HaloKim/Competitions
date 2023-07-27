@@ -37,3 +37,5 @@
 # 배운점
 
 사전 학습 모델 timm의 강력함.
+
+MultiSampleDropout이 이미지 분류에서도 잘 작동한다.
