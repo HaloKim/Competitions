@@ -11,3 +11,5 @@
 |Kaggle|[Feature Imputation with a Heat Flux Dataset](https://github.com/HaloKim/Competitions/tree/main/%5BKaggle%5DPlayground-S3E15)|11/693|
 |AIFactory|[제4회 2023 연구개발특구 AI SPARK 챌린지 - 공기압축기 이상 판단](https://github.com/HaloKim/Competitions/tree/main/%5BAIFactory%5D%EA%B3%B5%EA%B8%B0%EC%95%95%EC%B6%95%EA%B8%B0%EC%9D%B4%EC%83%81%ED%8C%90%EB%8B%A8)|125/803|
 |AIConnect|[Fake or Real: AI 생성 이미지 판별 경진대회 ](https://github.com/HaloKim/Competitions/tree/main/%5BAIFactory%5D%EA%B3%B5%EA%B8%B0%EC%95%95%EC%B6%95%EA%B8%B0%EC%9D%B4%EC%83%81%ED%8C%90%EB%8B%A8)|19/707|
+|ETRI|[2023 ETRI 자율성장 인공지능 경진대회 FASHION-HOW](https://fashion-how.org/ETRI23/)|종합우승/-|
+||[2022 ETRI 자율성장 인공지능 경진대회 FASHION-HOW Sub Task 1](https://fashion-how.org/ETRI23/fascode_board/board1_content.html)|2/-|
