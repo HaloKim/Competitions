@@ -14,3 +14,4 @@
 |AIConnect|[Fake or Real: AI 생성 이미지 판별 경진대회 ](https://github.com/HaloKim/Competitions/tree/main/%5BAIFactory%5D%EA%B3%B5%EA%B8%B0%EC%95%95%EC%B6%95%EA%B8%B0%EC%9D%B4%EC%83%81%ED%8C%90%EB%8B%A8)|19/707|
 |ETRI|[2023 ETRI 자율성장 인공지능 경진대회 FASHION-HOW](https://github.com/HaloKim/Competitions/tree/main/%5BETRI%5D2023ETRI%EC%9E%90%EC%9C%A8%EC%84%B1%EC%9E%A5%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8CFASHION-HOW)|종합우승/-|
 ||[2022 ETRI 자율성장 인공지능 경진대회 FASHION-HOW Sub Task 1](https://fashion-how.org/ETRI23/fascode_board/board1_content.html)|2/-|
+|AI말평경진대회|[한국어 어문 규범 기반 생성](https://kli.korean.go.kr/benchmark/taskBoardsOrdtm/boardsOrdtm/noticeView.do?recordId=472&boardOrdtmId=)|은상/-|
